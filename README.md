@@ -1,6 +1,6 @@
 # Notas
 
-## Herramientas
+-  [Index](https://colab.research.google.com/github/dbremont/Notas/blob/main/Index.ipynb)
 
 ## Ingenerare
 
@@ -15,31 +15,3 @@
 - [luxlabs.ai](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/luxlabs.ai.ipynb)
 
 - [todo.txt system Productivity System](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/todo.txt%20system%20Productivity%20System.ipynb)
-
-## Libros
-
-### Aprendisaje Automatico
-
-- [Patterns, Predictions, and Actions - A story about machine learning](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Aprendisaje%20Automatico/Patterns%2C%20Predictions%2C%20and%20Actions%20-%20A%20story%20about%20machine%20learning.ipynb)
-
-### Ciencia
-
-### Computacion
-
-### Ingenieria
-
-### Matematicas
-
-### Otros
-
-## Papers
-
-### Ciencia
-
-### Computacion
-
-### Ingenieria
-
-### Matematicas
-
-### Otros
