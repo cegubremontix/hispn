@@ -1,8 +1,8 @@
 # Notas
 
--  [Book Index](https://colab.research.google.com/github/dbremont/Notas/blob/main/Book%20Index.ipynb)
+-  [Indice de Libros](https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice%20de%20Libros.ipynb)
 
--  [Paper Index](https://colab.research.google.com/github/dbremont/Notas/blob/main/Paper%20Index.ipynb)
+-  [Indice de Artículos Científicos](https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice%20de%20Art%C3%ADculos%20Cient%C3%ADficos.ipynb)
 
 ## Ingenerare
 
