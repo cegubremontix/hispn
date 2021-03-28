@@ -20,6 +20,8 @@
 
 ### Aprendisaje Automatico
 
+- [Patterns, Predictions, and Actions - A story about machine learning](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Aprendisaje%20Automatico/Patterns%2C%20Predictions%2C%20and%20Actions%20-%20A%20story%20about%20machine%20learning.ipynb)
+
 ### Ciencia
 
 ### Computacion
