@@ -1,6 +1,8 @@
 # Notas
 
--  [Index](https://colab.research.google.com/github/dbremont/Notas/blob/main/Index.ipynb)
+-  [Book Index](https://colab.research.google.com/github/dbremont/Notas/blob/main/Book%20Index.ipynb)
+
+-  [Paper Index](https://colab.research.google.com/github/dbremont/Notas/blob/main/Paper%20Index.ipynb)
 
 ## Ingenerare
 
