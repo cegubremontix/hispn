@@ -11,6 +11,10 @@
 
 - [A Recordar](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/A%20Recordar.ipynb)
 
+- [Ideas de Proyectos](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/Ideas%20de%20Proyectos.ipynb)
+
+- [Littles Scripts & How To](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/Littles%20Scripts%20%26%20How%20To.ipynb)
+
 - [Mental Models](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/Mental%20Models.ipynb)
 
 - [How to go From Basic Hunting and Gathering Society to Advanced Highly Automated (How Information Grow)](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/%20How%20to%20go%20%20From%20Basic%20Hunting%20and%20Gathering%20Society%20to%20Advanced%20Highly%20Automated%20(How%20Information%20Grow)%20.ipynb)
