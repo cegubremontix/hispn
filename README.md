@@ -2,10 +2,13 @@
 
 > Nota nos llega del latin, en el cual significaba "marca" o signo para reconocer o recordar de algo posteriormente.
 
+- [Indice de Libros](https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice%20de%20Libros.ipynb)
 
--  [Indice de Libros](https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice%20de%20Libros.ipynb)
+- [Indice de Artículos Científicos](https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice%20de%20Art%C3%ADculos%20Cient%C3%ADficos.ipynb)
 
--  [Indice de Artículos Científicos](https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice%20de%20Art%C3%ADculos%20Cient%C3%ADficos.ipynb)
+- [Indice  de Ingenerare](https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice_de_Ingenerare.ipynb)
+
+- [Indice  de Herramientas.](https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice_de_Herramientas.ipynb)
 
 ## Ingenerare
 
