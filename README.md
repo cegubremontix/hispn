@@ -2,7 +2,11 @@
 
 > Nota nos llega del latin, en el cual significaba "marca" o signo para reconocer o recordar de algo posteriormente.
 
-- [Indice  de Herramientas.](https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice_de_Herramientas.ipynb)
+> Indice nos llega  del latín index, indicis ‘indicador, revelador’, ‘tabla, lista’. Se aplica, por especialización, al segundo dedo de la mano, por ser el que regularmente se usa para señalar.
+
+- [Indice de Proyectos](https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice_de_Proyectos.ipynb)
+
+- [Indice  de Herramientas](https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice_de_Herramientas.ipynb)
 
 - [Indice  de Ingenerare](https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice_de_Ingenerare.ipynb)
 
@@ -12,7 +16,9 @@
 
 - [Indice Temas de Estudio](https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice%20de%20Temas%20de%20Estudio.ipynb)
 
-## Ingenerare
+- [Indice de Notas a Recordar](https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice_de_Notas_a_Recordar.ipynb)
+
+## Top Notebooks
 
 - [A Recordar](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/A%20Recordar.ipynb)
 
