@@ -26,3 +26,5 @@
 - [luxlabs.ai](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/luxlabs.ai.ipynb)
 
 - [todo.txt system Productivity System](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/todo.txt%20system%20Productivity%20System.ipynb)
+
+- [Thinking](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/Thinking.ipynb)
