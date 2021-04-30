@@ -32,6 +32,8 @@
 
 - [Java](https://colab.research.google.com/github/dbremont/Notas/blob/main/Herramientas/Java.ipynb)
 
+- [AI for Trading](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/AI_for_Trading.ipynb)
+
 - [Python](https://colab.research.google.com/github/dbremont/Notas/blob/main/Herramientas/Python.ipynb)
 
 - [Scheme](https://colab.research.google.com/github/dbremont/Notas/blob/main/Herramientas/Scheme.ipynb)
@@ -39,3 +41,5 @@
 - [scikit-learn](https://colab.research.google.com/github/dbremont/Notas/blob/main/Herramientas/scikit_learn.ipynb)
 
 - [WorldWind](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/WorldWind.ipynb)
+
+
