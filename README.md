@@ -96,7 +96,7 @@ Hacer:
 
 - [A Philosophy of Software Design](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/A%20Philosophy%20of%20Software%20Design.ipynb)
 - [Code Reading - The Open Source Perspective](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Code%20Reading%20-%20The%20Open%20Source%20Perspective.ipynb)
-- [Beautiful Code](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Beautiful_Code.ipynb) **Todo Broken Link**
+- [Beautiful Code](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Beautiful_Code.ipynb)
 - [Clean Code - A Handbook of Agile Software Craftmanship](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Clean%20Code%20-%20A%20Handbook%20of%20Agile%20Software%20Craftmanship.ipynb)
 - [The Pragmatic Programmer](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/The%20Pragmatic%20Programmer.ipynb)
 - [How to Read a Book](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Otros/How%20to%20Read%20a%20Book.ipynb)
