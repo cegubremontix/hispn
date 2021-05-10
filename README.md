@@ -4,6 +4,10 @@
 
 > Indice nos llega  del latín index, indicis ‘indicador, revelador’, ‘tabla, lista’. Se aplica, por especialización, al segundo dedo de la mano, por ser el que regularmente se usa para señalar.
 
+- [luxlabs.ai](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/luxlabs.ai.ipynb)
+
+- [todo.txt system Productivity System](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/todo.txt%20system%20Productivity%20System.ipynb)
+
 - [Indice de Proyectos](https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice_de_Proyectos.ipynb)
 
 - [Indice  de Herramientas](https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice_de_Herramientas.ipynb)
@@ -20,26 +24,78 @@
 
 - [Indice de Littles Scripts & How To](https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice_de_Littles_Scripts_%26_How_To.ipynb)
 
-## Top 10 Notebooks
+## Calendario
 
-- [luxlabs.ai](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/luxlabs.ai.ipynb)
+< Rutina para ser un mejor programdor.
+< Ley de Pareto 20% Herramientas producen 80% Resultados.
+< Horario: Lunes (3:00 AM - 5:330 AM), Demas Dias (5:00 PM - 7:00 PM).
 
-- [todo.txt system Productivity System](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/todo.txt%20system%20Productivity%20System.ipynb)
+Hacer:
+  1. Leer y Estudiar a Otros Programadores.
+  2. Programar.
+  3. Practicar Habilidades (**Todo definir herramientas y habilidades**):
+     - Uso IDE
+     - Escribir
+     - (Conocimiento de mis Herramientas mas Usadas (Que me pueden dar ...))
 
-- [Thinking](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/Thinking.ipynb)
+### Topics
 
-- [Mental Models](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/Mental%20Models.ipynb)
+- [Great Principles of Computing](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Great_Principles_of_Computing.ipynb)
+- [Concepts, Techniques, and Models of Computer Programming](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Concepts%2C%20Techniques%2C%20and%20Models%20of%20Computer%20Programming.ipynb)
 
-- [Java](https://colab.research.google.com/github/dbremont/Notas/blob/main/Herramientas/Java.ipynb)
+#### Java
 
-- [AI for Trading](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/AI_for_Trading.ipynb)
+- Effective Java
+- Java EE 7
+- Java Puzzlers
+- Java Concurrency in Practice
+- Concurrent Programming in Java
+- 97 Things Every Java Programmer Should Know
+- Optimizing Java
 
-- [Python](https://colab.research.google.com/github/dbremont/Notas/blob/main/Herramientas/Python.ipynb)
+#### Computer Systems
 
-- [The Biggest Ideas in the Universe](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/The_Biggest_Ideas_in_the_Universe.ipynb)
+- Computer Systems
+- The Linux Programmign Interface
+- C Interfaces and Implmentation
 
-- [scikit-learn](https://colab.research.google.com/github/dbremont/Notas/blob/main/Herramientas/scikit_learn.ipynb)
+#### Operative Systems
 
-- [WorldWind](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/WorldWind.ipynb)
+- Linux Kernel
+- Three Easy Pieces
+- The Design and Implementation of Freebsd Operative System
+- The Design of the UNIX Operative System
+- The Design and Implementation of Minux
+- Mit OS Reading
 
+
+#### Virtual Machines, Interpreters and Compilers
+
+- The Java Language Specification
+- The Java Virtual Machine
+- Crafting Interpreters
+
+#### General
+
+- A Philosoy of Software Design
+- Code Reading
+- Beautiful Code
+- Clean Code
+- The Pragmatic Programmer
+- How to Read a Book
+- Shell Scripting
+
+- Code Quality
+- Code Complete
+- Implementation Patterns
+
+- The Productive Programmer
+
+- Design Patterns
+- System Design Interview
+- Coders at Work
+
+
+
+ 
 
