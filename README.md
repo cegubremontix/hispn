@@ -102,11 +102,16 @@ Hacer:
 - [How to Read a Book](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Otros/How%20to%20Read%20a%20Book.ipynb)
 - [Shell Scripting](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Shell_Scripting.ipynb)
 
+
 - Code Quality
 - Code Complete
 
+
+
 - Implementation Patterns
 - Design Patterns
+
+
 
 - The Productive Programmer
 - System Design Interview
