@@ -27,7 +27,9 @@
 ## Calendario
 
 > Rutina para ser un mejor programdor.
+
 > Ley de Pareto 20% Herramientas producen 80% Resultados.
+
 > Horario: Lunes (3:00 AM - 5:330 AM), Demas Dias (5:00 PM - 7:00 PM).
 
 Hacer:
