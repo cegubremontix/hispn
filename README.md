@@ -1,5 +1,7 @@
 # Notas
 
+**Todo: agregar una tabla de contenidos** 
+
 > Nota nos llega del latin, en el cual significaba "marca" o signo para reconocer o recordar de algo posteriormente.
 
 > Indice nos llega  del latín index, indicis ‘indicador, revelador’, ‘tabla, lista’. Se aplica, por especialización, al segundo dedo de la mano, por ser el que regularmente se usa para señalar.
@@ -30,7 +32,7 @@
 
 > Ley de Pareto 20% Herramientas producen 80% Resultados.
 
-> Horario: Lunes (3:00 AM - 5:330 AM), Demas Dias (5:00 PM - 7:00 PM).
+> Horario: Lunes (3:00 AM - 5:330 AM), Otros Dias (5:00 PM - 7:00 PM).
 
 Hacer:
   1. Leer y Estudiar a Otros Programadores.
@@ -60,6 +62,7 @@ Hacer:
 - [Computer Systems](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Computer%20Systems%20A%20Programmer's%20Perspective.ipynb)
 - [The Linux Programming Interface](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/The%20Linux%20Programming%20Interface.ipynb)
 - [C Interfaces and Implmentation](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/C%20Interfaces%20and%20Implementations.ipynb)
+- [The Art of Unix Programming](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/The%20Art%20of%20Unix%20Programming.ipynb)
 
 #### Operative Systems
 
