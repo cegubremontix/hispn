@@ -20,8 +20,7 @@
 
 > Ley de Pareto 20% Herramientas producen 80% Resultados.
 
-> Horario: Lunes (3:00 AM - 5:330 AM), Otros Dias (5:00 PM - 7:00 PM).
-
+> Horario: Lunes - Viernes (4:00 AM - 5:30 AM) y (5:00 PM - 6:30 PM).
 
 Hacer:
   1. Leer y Estudiar a Otros Programadores.
