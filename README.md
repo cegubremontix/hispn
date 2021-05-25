@@ -28,9 +28,6 @@ Hacer:
      - (Conocimiento de mis Herramientas mas Usadas (Que me pueden dar ...))
  
 ## Indices
-
-- [luxlabs.ai](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/luxlabs.ai.ipynb)
-- [todo.txt system Productivity System](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/todo.txt%20system%20Productivity%20System.ipynb)
 - [Indice de Proyectos](https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice_de_Proyectos.ipynb)
 - [Indice  de Herramientas](https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice_de_Herramientas.ipynb)
 - [Indice  de Ingenerare](https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice_de_Ingenerare.ipynb)
@@ -42,6 +39,11 @@ Hacer:
 
 
 ## Topics
+
+- [luxlabs.ai](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/luxlabs.ai.ipynb)
+- [todo.txt system Productivity System](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/todo.txt%20system%20Productivity%20System.ipynb)
+
+
 
 - [Concepts, Techniques, and Models of Computer Programming](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Concepts%2C%20Techniques%2C%20and%20Models%20of%20Computer%20Programming.ipynb)
 - [The Structure and Interpretation of Computer Programs](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/The%20Structure%20and%20Interpretation%20of%20Computer%20Programs.ipynb)
