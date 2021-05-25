@@ -43,8 +43,8 @@ Hacer:
 
 ## Topics
 
-- [Great Principles of Computing](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Great_Principles_of_Computing.ipynb)
 - [Concepts, Techniques, and Models of Computer Programming](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Concepts%2C%20Techniques%2C%20and%20Models%20of%20Computer%20Programming.ipynb)
+- [The Structure and Interpretation of Computer Programs](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/The%20Structure%20and%20Interpretation%20of%20Computer%20Programs.ipynb)
 - [Shell Scripting](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Shell_Scripting.ipynb)
 
 ### Java
