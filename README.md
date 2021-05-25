@@ -5,10 +5,7 @@
 - [Topics](#topics)
   - [Java](#java)
   - [Computer Systems](#computer-systems)
-  - [Operative Systems](#operative-systems)
-  - [Virtual Machines, Interpreters and Compilers](#virtual-machines-interpreters-and-compilers)
   - [General](#general)
-- [Herramientas](#herramientas)
 
 > Nota nos llega del latin, en el cual significaba "marca" o signo para reconocer o recordar de algo posteriormente.
 
@@ -57,6 +54,7 @@ Hacer:
 
 - [Great Principles of Computing](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Great_Principles_of_Computing.ipynb)
 - [Concepts, Techniques, and Models of Computer Programming](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Concepts%2C%20Techniques%2C%20and%20Models%20of%20Computer%20Programming.ipynb)
+- [Shell Scripting](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Shell_Scripting.ipynb)
 
 ### Java
 
@@ -67,7 +65,11 @@ Hacer:
 - [Java Concurrency in Practice](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Java_Concurrency_in_Practice.ipynb)
 - Concurrent Programming in Java™: Design Principles and Pattern
 - [97 Things Every Java Programmer Should Know](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/97_Things_Every_Java_Programmer_Should_Know.ipynb)
+
 - Optimizing Java
+
+- [The Java Language Specification](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/The_Java_Language_Specification.ipynb)
+- [The Java Virtual Machine Specification](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/The_Java_Virtual_Machine_Specification.ipynb)
 
 ### Computer Systems
 
@@ -75,21 +77,6 @@ Hacer:
 - [The Linux Programming Interface](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/The%20Linux%20Programming%20Interface.ipynb)
 - [C Interfaces and Implmentation](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/C%20Interfaces%20and%20Implementations.ipynb)
 - [The Art of Unix Programming](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/The%20Art%20of%20Unix%20Programming.ipynb)
-
-### Operative Systems
-
-- [Understanding the Linux Kernel](https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice%20de%20Libros.ipynb#scrollTo=d3zwxuAZdB6J)
--  [Operative System Three Easy Pieces](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Operative_System_Three_Easy_Pieces.ipynb)
-- The Design And Implementation Of The Freebsd Operating System
-- The Design of the UNIX Operative System
-- [Operating Systems - Design and Implementation](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Operating%20Systems%20-%20Design%20and%20Implementation.ipynb)
-- [xv6: a simple, Unix-like teaching operating system](https://pdos.csail.mit.edu/6.S081/2020/xv6/book-riscv-rev1.pdf) **Todo: Agregar Libreria**
-
-### Virtual Machines, Interpreters and Compilers
-
-- The Java Language Specification
-- The Java Virtual Machine
-- [Crafting Interpreters](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Crafting%20Interpreters.ipynb)
 
 ### General
 
@@ -99,24 +86,17 @@ Hacer:
 - [Clean Code - A Handbook of Agile Software Craftmanship](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Clean%20Code%20-%20A%20Handbook%20of%20Agile%20Software%20Craftmanship.ipynb)
 - [The Pragmatic Programmer](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/The%20Pragmatic%20Programmer.ipynb)
 - [How to Read a Book](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Otros/How%20to%20Read%20a%20Book.ipynb)
-- [Shell Scripting](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Shell_Scripting.ipynb)
 
 
-- Code Quality
-- Code Complete
-
-
-
-- Implementation Patterns
-- Design Patterns
+- [Code Complete](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Code%20Complete%202%20Ed.ipynb)
 
 
 
-- The Productive Programmer
-- System Design Interview
-- Coders at Work
-- [The 5 Elements of Effective Thinking](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Otros/The_Five_Elements_of_Effective_Thinking.ipynb)
+* [Implementation Patterns](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Implementation_Patterns.ipynb)
+* [Design Patterns Buliding Extensible & Maintainable Object-Oriented Software](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Design_Patterns_Buliding_Extensible_%26_Maintainable_Object_Oriented_Software_.ipynb)
 
-## Herramientas
 
-- [Maven](https://colab.research.google.com/github/dbremont/Notas/blob/main/Herramientas/Maven.ipynb)
+
+* [The Productive Programmer](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/The_Productive_Programmer.ipynb)
+* [System Design Interview](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/System_Design_Interview.)
+* [Coders at Work](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Coders_at_Work.ipynb)
