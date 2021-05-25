@@ -30,23 +30,14 @@ Hacer:
 ## Indices
 
 - [luxlabs.ai](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/luxlabs.ai.ipynb)
-
 - [todo.txt system Productivity System](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/todo.txt%20system%20Productivity%20System.ipynb)
-
 - [Indice de Proyectos](https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice_de_Proyectos.ipynb)
-
 - [Indice  de Herramientas](https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice_de_Herramientas.ipynb)
-
 - [Indice  de Ingenerare](https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice_de_Ingenerare.ipynb)
-
 - [Indice de Libros](https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice%20de%20Libros.ipynb)
-
 - [Indice de Artículos Científicos](https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice%20de%20Art%C3%ADculos%20Cient%C3%ADficos.ipynb)
-
 - [Indice Temas de Estudio](https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice%20de%20Temas%20de%20Estudio.ipynb)
-
 - [Indice de Notas a Recordar](https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice_de_Notas_a_Recordar.ipynb)
-
 - [Indice de Littles Scripts & How To](https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice_de_Littles_Scripts_%26_How_To.ipynb)
 
 
@@ -63,7 +54,8 @@ Hacer:
 - [Java EE 7](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Java_EE_8.ipynb)
 - [Java Puzzlers: Traps, Pitfalls and Corner Cases](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Java_Puzzlers_Traps%2C_Pitfalls_and_Corner_Cases.ipynb)
 - [Java Concurrency in Practice](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Java_Concurrency_in_Practice.ipynb)
-- Concurrent Programming in Java™: Design Principles and Pattern
+- [Concurrent Programming in Java™: Design Principles and Pattern](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Concurent_Programming_in_Java_Design_Principles_and_Patterns.ipynb)
+
 - [97 Things Every Java Programmer Should Know](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/97_Things_Every_Java_Programmer_Should_Know.ipynb)
 
 - Optimizing Java
@@ -91,10 +83,8 @@ Hacer:
 - [Code Complete](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Code%20Complete%202%20Ed.ipynb)
 
 
-
 * [Implementation Patterns](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Implementation_Patterns.ipynb)
 * [Design Patterns Buliding Extensible & Maintainable Object-Oriented Software](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Design_Patterns_Buliding_Extensible_%26_Maintainable_Object_Oriented_Software_.ipynb)
-
 
 
 * [The Productive Programmer](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/The_Productive_Programmer.ipynb)
