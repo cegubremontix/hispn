@@ -57,11 +57,8 @@ Hacer:
 - [Java Puzzlers: Traps, Pitfalls and Corner Cases](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Java_Puzzlers_Traps%2C_Pitfalls_and_Corner_Cases.ipynb)
 - [Java Concurrency in Practice](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Java_Concurrency_in_Practice.ipynb)
 - [Concurrent Programming in Java™: Design Principles and Pattern](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Concurent_Programming_in_Java_Design_Principles_and_Patterns.ipynb)
-
 - [97 Things Every Java Programmer Should Know](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/97_Things_Every_Java_Programmer_Should_Know.ipynb)
-
 - Optimizing Java
-
 - [The Java Language Specification](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/The_Java_Language_Specification.ipynb)
 - [The Java Virtual Machine Specification](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/The_Java_Virtual_Machine_Specification.ipynb)
 
@@ -77,18 +74,11 @@ Hacer:
 - [A Philosophy of Software Design](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/A%20Philosophy%20of%20Software%20Design.ipynb)
 - [Code Reading - The Open Source Perspective](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Code%20Reading%20-%20The%20Open%20Source%20Perspective.ipynb)
 - [Beautiful Code](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Beautiful_Code.ipynb)
-- [Clean Code - A Handbook of Agile Software Craftmanship](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Clean%20Code%20-%20A%20Handbook%20of%20Agile%20Software%20Craftmanship.ipynb)
 - [The Pragmatic Programmer](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/The%20Pragmatic%20Programmer.ipynb)
 - [How to Read a Book](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Otros/How%20to%20Read%20a%20Book.ipynb)
-
-
 - [Code Complete](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Code%20Complete%202%20Ed.ipynb)
-
-
 * [Implementation Patterns](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Implementation_Patterns.ipynb)
 * [Design Patterns Buliding Extensible & Maintainable Object-Oriented Software](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Design_Patterns_Buliding_Extensible_%26_Maintainable_Object_Oriented_Software_.ipynb)
-
-
 * [The Productive Programmer](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/The_Productive_Programmer.ipynb)
 * [System Design Interview](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/System_Design_Interview.)
 * [Coders at Work](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Coders_at_Work.ipynb)
