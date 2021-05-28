@@ -1,6 +1,5 @@
 # Notas
 
-- [Calendario](#calendario)
 - [Indices](#indices) 
 - [Topics](#topics)
   - [Java](#java)
