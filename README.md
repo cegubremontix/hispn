@@ -4,7 +4,7 @@
 - [Indices](#indices) 
 - [Topics](#topics)
   - [Java](#java)
-  - [AI for Trading](#ai-for-trading) https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/AI_for_Trading.ipynb)
+  - [AI for Trading](#ai-for-trading)
   - [Computer Systems](#computer-systems)
   - [General](#general)
 
