@@ -69,9 +69,6 @@ Hacer:
 ### Computer Systems
 
 - [Computer Systems](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Computer%20Systems%20A%20Programmer's%20Perspective.ipynb)
-- [The Linux Programming Interface](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/The%20Linux%20Programming%20Interface.ipynb)
-- [C Interfaces and Implmentation](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/C%20Interfaces%20and%20Implementations.ipynb)
-- [The Art of Unix Programming](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/The%20Art%20of%20Unix%20Programming.ipynb)
 
 ### General
 
