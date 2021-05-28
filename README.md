@@ -4,6 +4,7 @@
 - [Indices](#indices) 
 - [Topics](#topics)
   - [Java](#java)
+  - [AI for Trading](#ai-for-trading) https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/AI_for_Trading.ipynb)
   - [Computer Systems](#computer-systems)
   - [General](#general)
 
@@ -61,6 +62,10 @@ Hacer:
 - Optimizing Java
 - [The Java Language Specification](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/The_Java_Language_Specification.ipynb)
 - [The Java Virtual Machine Specification](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/The_Java_Virtual_Machine_Specification.ipynb)
+
+### AI for Trading
+- [AI for Trading](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/AI_for_Trading.ipynb)
+
 
 ### Computer Systems
 
