@@ -40,7 +40,7 @@ Hacer:
 
 ## Topics
 
-- [luxlabs.ai](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/luxlabs.ai.ipynb)
+- [Planme](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/Planme.ipynb)
 - [todo.txt system Productivity System](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/todo.txt%20system%20Productivity%20System.ipynb)
 
 
