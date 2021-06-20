@@ -2,10 +2,9 @@
 
 - [Indices](#indices) 
 - [Topics](#topics)
-  - [Java](#java)
   - [AI for Trading](#ai-for-trading)
-  - [Computer Systems](#computer-systems)
-  - [General](#general)
+  - [Java](#java)
+  
 
 > Nota nos llega del latin, en el cual significaba "marca" o signo para reconocer o recordar de algo posteriormente.
 
@@ -41,13 +40,22 @@ Hacer:
 ## Topics
 
 - [Planme](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/Planme.ipynb)
+
 - [todo.txt system Productivity System](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/todo.txt%20system%20Productivity%20System.ipynb)
 
-
-
 - [Concepts, Techniques, and Models of Computer Programming](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Concepts%2C%20Techniques%2C%20and%20Models%20of%20Computer%20Programming.ipynb)
+
 - [The Structure and Interpretation of Computer Programs](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/The%20Structure%20and%20Interpretation%20of%20Computer%20Programs.ipynb)
+
 - [Shell Scripting](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Shell_Scripting.ipynb)
+
+- [A Philosophy of Software Design](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/A%20Philosophy%20of%20Software%20Design.ipynb)
+
+- [Code Reading - The Open Source Perspective](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Code%20Reading%20-%20The%20Open%20Source%20Perspective.ipynb)
+
+
+### AI for Trading
+- [AI for Trading](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/AI_for_Trading.ipynb)
 
 ### Java
 
@@ -61,25 +69,3 @@ Hacer:
 - Optimizing Java
 - [The Java Language Specification](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/The_Java_Language_Specification.ipynb)
 - [The Java Virtual Machine Specification](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/The_Java_Virtual_Machine_Specification.ipynb)
-
-### AI for Trading
-- [AI for Trading](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/AI_for_Trading.ipynb)
-
-
-### Computer Systems
-
-- [Computer Systems](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Computer%20Systems%20A%20Programmer's%20Perspective.ipynb)
-
-### General
-
-- [A Philosophy of Software Design](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/A%20Philosophy%20of%20Software%20Design.ipynb)
-- [Code Reading - The Open Source Perspective](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Code%20Reading%20-%20The%20Open%20Source%20Perspective.ipynb)
-- [Beautiful Code](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Beautiful_Code.ipynb)
-- [The Pragmatic Programmer](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/The%20Pragmatic%20Programmer.ipynb)
-- [How to Read a Book](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Otros/How%20to%20Read%20a%20Book.ipynb)
-- [Code Complete](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Code%20Complete%202%20Ed.ipynb)
-* [Implementation Patterns](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Implementation_Patterns.ipynb)
-* [Design Patterns Buliding Extensible & Maintainable Object-Oriented Software](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Design_Patterns_Buliding_Extensible_%26_Maintainable_Object_Oriented_Software_.ipynb)
-* [The Productive Programmer](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/The_Productive_Programmer.ipynb)
-* [System Design Interview](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/System_Design_Interview.)
-* [Coders at Work](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Coders_at_Work.ipynb)
