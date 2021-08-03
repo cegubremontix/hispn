@@ -33,7 +33,6 @@ Hacer:
 - [Indice  de Ingenerare](https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice_de_Ingenerare.ipynb)
 - [Indice de Libros](https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice%20de%20Libros.ipynb)
 - [Indice de Artículos Científicos](https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice%20de%20Art%C3%ADculos%20Cient%C3%ADficos.ipynb)
-- [Indice Secundario](https://colab.research.google.com/github/dbremont/Notas/blob/main/Secondary_Index.ipynb)
 
 
 ## Topics
