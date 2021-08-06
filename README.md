@@ -5,7 +5,6 @@
   - [AI for Trading](#ai-for-trading)
   - [Java](#java)
   
-
 > Nota nos llega del latin, en el cual significaba "marca" o signo para reconocer o recordar de algo posteriormente.
 
 > Indice nos llega  del latín index, indicis ‘indicador, revelador’, ‘tabla, lista’. Se aplica, por especialización, al segundo dedo de la mano, por ser el que regularmente se usa para señalar.
@@ -49,6 +48,8 @@ Hacer:
 
 - [Code Reading - The Open Source Perspective](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Code%20Reading%20-%20The%20Open%20Source%20Perspective.ipynb)
 
+
+- [Herramientas de Desarollo](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/Herramientas_de_Desarollo.ipynb)
 
 ### AI for Trading
 - [AI for Trading](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/AI_for_Trading.ipynb)
