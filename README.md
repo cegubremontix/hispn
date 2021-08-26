@@ -38,6 +38,8 @@ Hacer:
 
 - [Planme](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/Planme.ipynb)
 
+- [Todo Proyectos](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/Todo_Proyectos.ipynb)
+
 - [todo.txt system Productivity System](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/todo.txt%20system%20Productivity%20System.ipynb)
 
 - [Concepts, Techniques, and Models of Computer Programming](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Concepts%2C%20Techniques%2C%20and%20Models%20of%20Computer%20Programming.ipynb)
