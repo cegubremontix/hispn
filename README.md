@@ -51,12 +51,3 @@ Hacer:
 ### Java
 
 - [Notes on Java](https://colab.research.google.com/github/dbremont/Notas/blob/main/Herramientas/Java.ipynb)
-- [Effective Java](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Effective_Java.ipynb)
-- [Java EE 7](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Java_EE_8.ipynb)
-- [Java Puzzlers: Traps, Pitfalls and Corner Cases](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Java_Puzzlers_Traps%2C_Pitfalls_and_Corner_Cases.ipynb)
-- [Java Concurrency in Practice](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Java_Concurrency_in_Practice.ipynb)
-- [Concurrent Programming in Java™: Design Principles and Pattern](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Concurent_Programming_in_Java_Design_Principles_and_Patterns.ipynb)
-- [97 Things Every Java Programmer Should Know](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/97_Things_Every_Java_Programmer_Should_Know.ipynb)
-- [Optimizing Java](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Optimizing_Java.ipynb)
-- [The Java Language Specification](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/The_Java_Language_Specification.ipynb)
-- [The Java Virtual Machine Specification](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/The_Java_Virtual_Machine_Specification.ipynb)
