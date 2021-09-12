@@ -48,12 +48,6 @@ Hacer:
 
 - [Code Reading - The Open Source Perspective](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Code%20Reading%20-%20The%20Open%20Source%20Perspective.ipynb)
 
-
-- [Herramientas de Desarollo](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/Herramientas_de_Desarollo.ipynb)
-
-### AI for Trading
-- [AI for Trading](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/AI_for_Trading.ipynb)
-
 ### Java
 
 - [Notes on Java](https://colab.research.google.com/github/dbremont/Notas/blob/main/Herramientas/Java.ipynb)
