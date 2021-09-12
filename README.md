@@ -28,7 +28,7 @@ Hacer:
 ## Indices
 
 - [Indice Temas de Estudio](https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice%20de%20Temas%20de%20Estudio.ipynb)
-- [Indice  de Herramientas](https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice_de_Herramientas.ipynb)
+- [Indice  de Herramientas](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/Herramientas_de_Desarollo.ipynb)
 - [Indice  de Ingenerare](https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice_de_Ingenerare.ipynb)
 - [Indice de Libros](https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice%20de%20Libros.ipynb)
 - [Indice de Artículos Científicos](https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice%20de%20Art%C3%ADculos%20Cient%C3%ADficos.ipynb)
