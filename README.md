@@ -10,11 +10,11 @@
 
 ## Topics
 
-- [Planme](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/Planme.ipynb)
 
-- [Anki](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingeneraresrc//Anki.ipynb)
 
-- [todo.txt system Productivity System](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src//todo.txt%20system%20Productivity%20System.ipynb)
+- [Anki](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/Anki.ipynb)
+
+- [todo.txt system Productivity System](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/todo.txt_system_Productivity_System.ipynb)
 
 - [Notes on Java](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/Java.ipynb)
 
