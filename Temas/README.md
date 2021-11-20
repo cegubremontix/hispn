@@ -1,4 +1,4 @@
-<a href="https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice%20de%20Temas%20de%20Estudio.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/dbremont/Notas/blob/main/Indice%20de%20Temas.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 # Temas de Estudio
@@ -6,9 +6,9 @@
 
 [ArsDigita University Curriculum](http://www.aduni.org/courses/)
 
-[How To Make (almost) Anything](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas%20de%20Estudio/How_To_Make_almost_Anything.ipynb)
+[How To Make (almost) Anything](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/How_To_Make_almost_Anything.ipynb)
 
-[Rapid-Prototyping of Rapid-Prototyping Machines: How to Make Something that Makes (almost) Anything](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas%20de%20Estudio/How_to_Make_Something_that_Makes_almost_Anything)
+[Rapid-Prototyping of Rapid-Prototyping Machines: How to Make Something that Makes (almost) Anything](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/How_to_Make_Something_that_Makes_almost_Anything)
 
 [Software Design Group](https://sdg.csail.mit.edu/projects/espalier)
 
@@ -23,7 +23,7 @@
 
 
 
-[Algorithms & Data Structures](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas%20de%20Estudio/Algorithms.ipynb)
+[Algorithms & Data Structures](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Algorithms.ipynb)
 
 [Software Construction](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/6_005_Software_Construction_in_Java.ipynb)
 
@@ -37,7 +37,7 @@
 
 [Data Systems](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/Data_Systems.ipynb)
 
-[Performace Engineering](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas%20de%20Estudio/Performace_Engineering.ipynb)
+[Performace Engineering](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Performace_Engineering.ipynb)
 
 [Security](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/Computer_Security.ipynb)
 
@@ -49,25 +49,25 @@
 
 [Problem Solving](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/Problem_Solving.ipynb)
 
-[Single Variable Calculus](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas%20de%20Estudio/Single_Variable_Calculus.ipynb)
+[Single Variable Calculus](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Single_Variable_Calculus.ipynb)
 
-[Multi Variable Calculus](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas%20de%20Estudio/Multi_Variable_Calculus.ipynb)
+[Multi Variable Calculus](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Multi_Variable_Calculus.ipynb)
 
-[Probability and Statistics](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas%20de%20Estudio/Probability%20and%20Statistics.ipynb)
+[Probability and Statistics](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Probability%20and%20Statistics.ipynb)
 
-[Linear Algebra](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas%20de%20Estudio/Linear%20Algebra.ipynb)
+[Linear Algebra](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Linear%20Algebra.ipynb)
 
-[Differential Equations](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas%20de%20Estudio/Differential_Equations.ipynb)
+[Differential Equations](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Differential_Equations.ipynb)
 
 # Computational Learning
 
 [Articulos](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/Computational_Learning_Articles.ipynb)
 
-[Machine Learning](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas%20de%20Estudio/Machine%20Learning.ipynb)
+[Machine Learning](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Machine%20Learning.ipynb)
 
-[Deep Learning](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas%20de%20Estudio/Deep%20Learning.ipynb)
+[Deep Learning](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Deep%20Learning.ipynb)
 
-[Natural Language Processing](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas%20de%20Estudio/Natural_Language_Processing.ipynb)
+[Natural Language Processing](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Natural_Language_Processing.ipynb)
 
 [AI For Trading](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/AI_for_Trading.ipynb)
 
@@ -81,13 +81,13 @@
 
 [General](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/Ciencia_General.ipynb)
 
-[Biology](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas%20de%20Estudio/Biology.ipynb)
+[Biology](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Biology.ipynb)
 
-[Physics](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas%20de%20Estudio/Physics.ipynb)
+[Physics](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Physics.ipynb)
 
-[Neurociencia](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas%20de%20Estudio/Neurociencia.ipynb)
+[Neurociencia](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Neurociencia.ipynb)
 
-[Quimica](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas%20de%20Estudio/Quimica.ipynb)
+[Quimica](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Quimica.ipynb)
 
 # General
 
@@ -99,9 +99,9 @@
 
 [The Science of Everyday Thinking](https://www.edx.org/es/course/the-science-of-everyday-thinking)
 
-[Historia](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas%20de%20Estudio/Historia.ipynb)
+[Historia](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Historia.ipynb)
 
-[Economía](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas%20de%20Estudio/Econom%C3%ADa.ipynb)
+[Economía](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Econom%C3%ADa.ipynb)
 
 *Script for Some Interactivity if it gets converter to html*
 
