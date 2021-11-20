@@ -134,6 +134,8 @@ Indice de Libros
 
 #   Computational Learning
 
+* [Grokking Deep Learning](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Aprendisaje%20Automatico/Grokking_Deep_Learning.ipynb)
+
 * [Introduction to the Theory of Neural Computation](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Aprendisaje%20Automatico/Introduction_to_the_Theory_of_Neural_Computation.ipynb)
 
 * [Genetic Algorithms + Data Structures = Evolution Programs](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Aprendisaje%20Automatico/Genetic_Algorithms_%2B_Data_Structures_%3D_Evolution_Programs.ipynb)
@@ -187,6 +189,14 @@ Indice de Libros
 # Computacion
 
 ## Programming
+
+* [The Art of Multiprocessor Programming](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/The_Art_of_Multiprocessor_Programming.ipynb)
+
+* [A Practical Theory of Programming](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/A_Practical_Theory_of_Programming.ipynb)
+
+* [Writing Efficient Programs](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Writing_Efficient_Programs.ipynb)
+
+* [Programming with POSIX Threads](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Programming_with_POSIX_Threads.ipynb)
 
 [Structure and Interpreration of Computer Programs](https://github.com/dbremont/Notas/blob/main/Libros/Computacion/Structure_and_Interpretation_of_Computer_Programs.ipynb)
 
@@ -460,6 +470,8 @@ Indice de Libros
 
 ### Otros
 
+[The Design of Everyday Things](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Otros%20/The_Design_of_Everyday_Things.ipynb)
+
 [Galileo's Finger](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Ciencia/Galileo's_Finger.ipynb)
 
 [Four Laws That Drive The Universe](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Ciencia/Four_Laws_That_Drive_The_Universe.ipynb)
@@ -477,6 +489,8 @@ Indice de Libros
 [Theoretical Neuroscience Computational and Mathematical Modeling ofr Neural Systems](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Ciencia/Theoretical_Neuroscience_Computational_and_Mathematical_Modeling_ofr_Neural_Systems.ipynb)
 
 # Otros
+
+[The Great Mental Models](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Otros/The_Great_Metal_Models.ipynb)
 
 [Personal Knowledge Towards a Post-Critical Philosophy](https://colab.research.google.com/github/dbremont/Notas/blob/main/%20Libros/Otros/Personal_Knowledge_Towards_a_Post_Critical_Philosophy.ipynb)
 
