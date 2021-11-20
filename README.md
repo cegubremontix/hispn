@@ -20,6 +20,57 @@
 
 - [jvtudes](https://github.com/dbremont/jvtudes)
 
+## Code Reading
+
+Hybernate
+- [Hibernate's core Object/Relational Mapping functionality](https://github.com/hibernate/hibernate-orm)
+- [Hibernate Search: full-text search for domain model](https://github.com/hibernate/hibernate-search)
+- [Hibernate Tools: Code generation, reverse engineering, ant task and more tools for Hibernate Core](https://github.com/hibernate/hibernate-tools)
+
+[MyBatis SQL mapper framework for Java](https://github.com/mybatis/mybatis-3)
+
+[Avian](https://github.com/ReadyTalk/avian)
+
+[Vim](https://github.com/vim/vim)
+
+X11 (X.ORG Implementation)
+- [README for X11R7.7](https://www.x.org/releases/X11R7.7/doc/xorg-docs/README.html)
+- [freedesktop.org git repository browser](https://cgit.freedesktop.org/xorg)
+
+[Linux Kernel](https://github.com/torvalds/linux)
+- [Nice Navigation](https://elixir.bootlin.com/linux/latest/source)
+
+PDS
+
+[MySQL](https://github.com/mysql/mysql-server)
+
+[Casandra DB](https://github.com/apache/cassandra)
+
+[DAPR](https://github.com/dapr/dapr)
+
+Apache Lucene
+- [Core](https://github.com/apache/lucene)
+- [PyLucene](https://svn.apache.org/repos/asf/lucene/pylucene/trunk/)
+
+[Apache Sorl](https://github.com/apache/solr)
+- [GitBox](https://gitbox.apache.org/repos/asf?p=solr.git;a=summary)
+
+Grand Central Dispath
+- [FreeBSD Implementation](https://wiki.freebsd.org/action/show/GrandCentralDispatch?action=show&redirect=GCD)
+
+[Guava](https://github.com/google/guava)
+
+[Tornado Web Server](https://www.tornadoweb.org/en/stable/)
+ -  [src](https://github.com/tornadoweb/tornado)
+
+Wildfly
+- [wildfly/wildfly-core](https://github.com/wildfly/wildfly-core)
+- [wildfly/wildfly](https://github.com/wildfly/wildfly)
+
+Maybe
+- Apache Beam
+- Apache Flink
+- Redis
 
 ## Motivation
 
