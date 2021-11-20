@@ -43,6 +43,10 @@ Memex | Searchables Notes (?)
 
 - [Elemental Cognition](https://ec.ai/)
 
+[Challenging projects every programmer should try](https://web.eecs.utk.edu/~azh/blog/challengingprojects.html)
+
+[More challenging projects every programmer should tr](https://web.eecs.utk.edu/~azh/blog/morechallengingprojects.html)
+
 Skills to Master
 
 - troubleshoot the software, write clean code, 
@@ -82,4 +86,3 @@ Skills to Master
 - Experience in instrumenting code for gathering production performance metrics 
 
 - Strong experience in Service Architecture, API Design, and Database Schema Design
-
