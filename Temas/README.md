@@ -17,7 +17,7 @@
 [MIT CSAIL Parallel and Distributed Operating Systems Group](https://pdos.csail.mit.edu/)
 
 # Computational
-[Articulos](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/CS_Articles.ipynb)
+[Articulos](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/CS_Articles.ipynb)
 
 
 
@@ -25,29 +25,29 @@
 
 [Algorithms & Data Structures](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Algorithms.ipynb)
 
-[Software Construction](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/6_005_Software_Construction_in_Java.ipynb)
+[Software Construction](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/6_005_Software_Construction_in_Java.ipynb)
 
-[Computer Systems](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/Computer_Systems.ipynb)
+[Computer Systems](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/Computer_Systems.ipynb)
 
-[Operating Systems](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/Operating_Systems.ipynb)
+[Operating Systems](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/Operating_Systems.ipynb)
 
-[Network Systems](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/Fundamentals_of_Computer_Networks.ipynb)
+[Network Systems](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/Fundamentals_of_Computer_Networks.ipynb)
 
-[Compilers](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/Compilers.ipynb)
+[Compilers](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/Compilers.ipynb)
 
-[Data Systems](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/Data_Systems.ipynb)
+[Data Systems](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/Data_Systems.ipynb)
 
 [Performace Engineering](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Performace_Engineering.ipynb)
 
-[Security](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/Computer_Security.ipynb)
+[Security](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/Computer_Security.ipynb)
 
 # Mathematical
 
-[Articulos](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/Math_Articles.ipynb)
+[Articulos](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/Math_Articles.ipynb)
 
-[Basic Mathematics](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/Basic_Mathematics.ipynb)
+[Basic Mathematics](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/Basic_Mathematics.ipynb)
 
-[Problem Solving](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/Problem_Solving.ipynb)
+[Problem Solving](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/Problem_Solving.ipynb)
 
 [Single Variable Calculus](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Single_Variable_Calculus.ipynb)
 
@@ -61,7 +61,7 @@
 
 # Computational Learning
 
-[Articulos](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/Computational_Learning_Articles.ipynb)
+[Articulos](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/Computational_Learning_Articles.ipynb)
 
 [Machine Learning](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Machine%20Learning.ipynb)
 
@@ -69,7 +69,7 @@
 
 [Natural Language Processing](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Natural_Language_Processing.ipynb)
 
-[AI For Trading](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/AI_for_Trading.ipynb)
+[AI For Trading](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/AI_for_Trading.ipynb)
 
 [Full Stack Deep Learning](https://fullstackdeeplearning.com/)
 
@@ -77,9 +77,9 @@
 
 # Ciencia
 
-[Articulos](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/Cience_Articles.ipynb)
+[Articulos](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/Cience_Articles.ipynb)
 
-[General](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/Ciencia_General.ipynb)
+[General](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/Ciencia_General.ipynb)
 
 [Biology](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Biology.ipynb)
 
@@ -91,7 +91,7 @@
 
 # General
 
-[Articulos](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/Articulos_Generales.ipynb)
+[Articulos](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/Articulos_Generales.ipynb)
 
 [Think like a Stoic: Ancient Wisdom for Today's World](https://www.thegreatcourses.com/player/Video/5030?autoplay=false)
 
@@ -102,26 +102,3 @@
 [Historia](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Historia.ipynb)
 
 [Economía](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Econom%C3%ADa.ipynb)
-
-*Script for Some Interactivity if it gets converter to html*
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mousetrap/1.6.5/mousetrap.min.js" integrity="sha512-+Jg3Ynmj9hse704K48H6rBBI3jdNBjReRGBCxUWFfOz3yVurnJFWtAWssDAsGtzWYw89xFWPxShuj2T6E9EOpg==" crossorigin="anonymous"></script>
-
-<script>
-
-var items = Array.from(document.querySelectorAll("li"))
-
-items.forEach(function(a, index){
-    a.setAttribute("tabindex", index)  
-})
-
-// Help
-Mousetrap.bind('?', function() { alert('Todo write the help of this.') });
-
-// Focus some random thing.
-Mousetrap.bind('r', function() {
-  var item = items[Math.floor(Math.random()*items.length)];
-  item.focus()
-});
-
-</script>
