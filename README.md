@@ -20,6 +20,9 @@
 
 - [jvtudes](https://github.com/dbremont/jvtudes)
 
+- [Deep Learning Nonodegree](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/Deep_Learning_Nanodegree.ipynb)
+
+
 ## Code Reading
 
 Hybernate
