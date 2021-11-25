@@ -6,9 +6,9 @@
 
 [ArsDigita University Curriculum](http://www.aduni.org/courses/)
 
-[How To Make (almost) Anything](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/How_To_Make_almost_Anything.ipynb)
+[How To Make (almost) Anything](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/src/How_To_Make_almost_Anything.ipynb)
 
-[Rapid-Prototyping of Rapid-Prototyping Machines: How to Make Something that Makes (almost) Anything](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/How_to_Make_Something_that_Makes_almost_Anything)
+[Rapid-Prototyping of Rapid-Prototyping Machines: How to Make Something that Makes (almost) Anything](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/src/How_to_Make_Something_that_Makes_almost_Anything)
 
 [Software Design Group](https://sdg.csail.mit.edu/projects/espalier)
 
@@ -23,7 +23,7 @@
 
 
 
-[Algorithms & Data Structures](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Algorithms.ipynb)
+[Algorithms & Data Structures](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/src/Algorithms.ipynb)
 
 [Software Construction](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/6_005_Software_Construction_in_Java.ipynb)
 
@@ -37,7 +37,7 @@
 
 [Data Systems](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/Data_Systems.ipynb)
 
-[Performace Engineering](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Performace_Engineering.ipynb)
+[Performace Engineering](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/src/Performace_Engineering.ipynb)
 
 [Security](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/Computer_Security.ipynb)
 
@@ -49,25 +49,25 @@
 
 [Problem Solving](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/Problem_Solving.ipynb)
 
-[Single Variable Calculus](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Single_Variable_Calculus.ipynb)
+[Single Variable Calculus](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/src/Single_Variable_Calculus.ipynb)
 
-[Multi Variable Calculus](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Multi_Variable_Calculus.ipynb)
+[Multi Variable Calculus](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/src/Multi_Variable_Calculus.ipynb)
 
-[Probability and Statistics](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Probability%20and%20Statistics.ipynb)
+[Probability and Statistics](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/src/Probability%20and%20Statistics.ipynb)
 
-[Linear Algebra](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Linear%20Algebra.ipynb)
+[Linear Algebra](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/src/Linear%20Algebra.ipynb)
 
-[Differential Equations](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Differential_Equations.ipynb)
+[Differential Equations](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/src/Differential_Equations.ipynb)
 
 # Computational Learning
 
 [Articulos](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/Computational_Learning_Articles.ipynb)
 
-[Machine Learning](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Machine%20Learning.ipynb)
+[Machine Learning](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/src/Machine%20Learning.ipynb)
 
-[Deep Learning](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Deep%20Learning.ipynb)
+[Deep Learning](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/src/Deep%20Learning.ipynb)
 
-[Natural Language Processing](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Natural_Language_Processing.ipynb)
+[Natural Language Processing](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/src/Natural_Language_Processing.ipynb)
 
 [AI For Trading](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/AI_for_Trading.ipynb)
 
@@ -81,13 +81,13 @@
 
 [General](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/Ciencia_General.ipynb)
 
-[Biology](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Biology.ipynb)
+[Biology](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/src/Biology.ipynb)
 
-[Physics](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Physics.ipynb)
+[Physics](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/src/Physics.ipynb)
 
-[Neurociencia](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Neurociencia.ipynb)
+[Neurociencia](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/src/Neurociencia.ipynb)
 
-[Quimica](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Quimica.ipynb)
+[Quimica](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/src/Quimica.ipynb)
 
 # General
 
@@ -99,6 +99,6 @@
 
 [The Science of Everyday Thinking](https://www.edx.org/es/course/the-science-of-everyday-thinking)
 
-[Historia](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Historia.ipynb)
+[Historia](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/src/Historia.ipynb)
 
-[Economía](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/Econom%C3%ADa.ipynb)
+[Economía](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/src/Econom%C3%ADa.ipynb)
