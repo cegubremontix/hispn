@@ -3,6 +3,7 @@
 
 # Temas de Estudio
 
+[Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
 [ArsDigita University Curriculum](http://www.aduni.org/courses/)
 
