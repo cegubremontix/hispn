@@ -190,6 +190,10 @@ Indice de Libros
 
 ## Programming
 
+* [Practica Binary Analysis](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Practica_Binary_Analysis.ipynb)
+
+* [Software Abstractions](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Software_Abstractions.ipynb)
+
 * [The Art of Multiprocessor Programming](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/The_Art_of_Multiprocessor_Programming.ipynb)
 
 * [A Practical Theory of Programming](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/A_Practical_Theory_of_Programming.ipynb)
