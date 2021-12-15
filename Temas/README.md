@@ -96,12 +96,12 @@
 
 [Articulos](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/Articulos_Generales.ipynb)
 
+[Hispanidad(https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/src/Hispanidad.ipynb)
+
 [Think like a Stoic: Ancient Wisdom for Today's World](https://www.thegreatcourses.com/player/Video/5030?autoplay=false)
 
 [Outsmart Yourself: Brain-Based Strategies to a Better You](https://www.thegreatcourses.com/player/Video/1670)
 
 [The Science of Everyday Thinking](https://www.edx.org/es/course/the-science-of-everyday-thinking)
 
-[Historia](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/src/Historia.ipynb)
 
-[Economía](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/src/Econom%C3%ADa.ipynb)
