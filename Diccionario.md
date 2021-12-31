@@ -1,0 +1,1 @@
+[Diccionario](https://dle.rae.es/diccionario) : Repertorio en forma de libro o en soporte electrónico en el que se recogen, según un orden determinado, las palabras o expresiones de una o más lenguas, o de una materia concreta, acompañadas de su definición, equivalencia o explicación.
