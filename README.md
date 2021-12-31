@@ -89,3 +89,6 @@ Skills to Master
 - Experience in instrumenting code for gathering production performance metrics 
 
 - Strong experience in Service Architecture, API Design, and Database Schema Design
+
+Ideas
+https://news.ycombinator.com/item?id=22614949
