@@ -20,13 +20,7 @@
 # Computational
 [Articulos](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/CS_Articles.ipynb)
 
-
-
-
-
-[Algorithms & Data Structures](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/src/Algorithms.ipynb)
-
-[Software Construction](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/6_005_Software_Construction_in_Java.ipynb)
+[Algorithms](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/src/Algorithms.ipynb)
 
 [Computer Systems](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/Computer_Systems.ipynb)
 
@@ -41,8 +35,6 @@
 [Performace Engineering](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/src/Performace_Engineering.ipynb)
 
 [Security](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/Computer_Security.ipynb)
-
-[Computer Graphics](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/src/Computer_Graphics.ipynb)
 
 # Mathematical
 
@@ -81,7 +73,5 @@
 [Think like a Stoic: Ancient Wisdom for Today's World](https://www.thegreatcourses.com/player/Video/5030?autoplay=false)
 
 [Outsmart Yourself: Brain-Based Strategies to a Better You](https://www.thegreatcourses.com/player/Video/1670)
-
-[The Science of Everyday Thinking](https://www.edx.org/es/course/the-science-of-everyday-thinking)
 
 
