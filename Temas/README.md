@@ -70,15 +70,7 @@
 
 [Articulos](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/Cience_Articles.ipynb)
 
-[General](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/Ciencia_General.ipynb)
-
-[Biology](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/src/Biology.ipynb)
-
-[Physics](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/src/Physics.ipynb)
-
-[Neurociencia](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/src/Neurociencia.ipynb)
-
-[Quimica](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/src/Quimica.ipynb)
+[General](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/src/Cience.ipynb)
 
 # General
 
