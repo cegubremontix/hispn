@@ -48,19 +48,7 @@
 
 [Articulos](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/Math_Articles.ipynb)
 
-[Basic Mathematics](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/Basic_Mathematics.ipynb)
-
-[Problem Solving](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/Problem_Solving.ipynb)
-
-[Single Variable Calculus](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/src/Single_Variable_Calculus.ipynb)
-
-[Multi Variable Calculus](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/src/Multi_Variable_Calculus.ipynb)
-
-[Probability and Statistics](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/src/Probability%20and%20Statistics.ipynb)
-
-[Linear Algebra](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/src/Linear%20Algebra.ipynb)
-
-[Differential Equations](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/src/Differential_Equations.ipynb)
+[Mathematics](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/src/Mathematics.ipynb)
 
 # Computational Learning
 
