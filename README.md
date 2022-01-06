@@ -7,6 +7,7 @@
 
 > Indice nos llega  del latín index, indicis ‘indicador, revelador’, ‘tabla, lista’. Se aplica, por especialización, al segundo dedo de la mano, por ser el que regularmente se usa para señalar.
  
+[Reference - Cosma Shalizi](http://bactra.org/notebooks/)
 
 ## Topics
 
