@@ -8,6 +8,8 @@ Tools
 - [View Evaluations](https://docs.google.com/spreadsheets/d/e/2PACX-1vQEFwO3BGIYjgJ3NtSE99B2HP8dGpDnCiD_xBNZT7RYY0aEUE2IIY_po4fqGe1nI4nNl75alBkAM1Lk/pubhtml?gid=0&single=true)
 
 
+Todo: Hacer grafico en 'view evaluations'
+
 Goals:
 - In every case accuracy > 97% word correct
 - avg type speed [75, 85] - Nitro Type
