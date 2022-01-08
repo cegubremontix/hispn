@@ -29,3 +29,9 @@ Critical mass
 [Teleology](https://en.wikipedia.org/wiki/Teleology)
 
 [Information](https://en.wikipedia.org/wiki/Information)
+
+Window of Oportunity
+
+Affirming the consequent
+
+
