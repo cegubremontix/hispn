@@ -7,6 +7,9 @@ Tools
 - [Enter Evaluation Data](https://docs.google.com/spreadsheets/d/1m_HWQ_R27foJkFJY_XoamKLupxJRpUEYZrGBPyjNsg4/edit#gid=0)
 - [View Evaluations](https://docs.google.com/spreadsheets/d/e/2PACX-1vQEFwO3BGIYjgJ3NtSE99B2HP8dGpDnCiD_xBNZT7RYY0aEUE2IIY_po4fqGe1nI4nNl75alBkAM1Lk/pubhtml?gid=0&single=true)
 
+[Words per minute](https://en.wikipedia.org/wiki/Words_per_minute)
+
+[Keystroke dynamics](https://en.wikipedia.org/wiki/Keystroke_dynamics)
 
 Todo: Hacer grafico en 'view evaluations'
 
