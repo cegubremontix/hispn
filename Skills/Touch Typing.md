@@ -4,6 +4,8 @@ Tools
 - https://www.nitrotype.com/race
 - https://www.keybr.com/
 - https://10fastfingers.com/typing-test/english
+- [Enter Evaluation Data](https://docs.google.com/spreadsheets/d/1m_HWQ_R27foJkFJY_XoamKLupxJRpUEYZrGBPyjNsg4/edit#gid=0)
+- [View Evaluations](https://docs.google.com/spreadsheets/d/e/2PACX-1vQEFwO3BGIYjgJ3NtSE99B2HP8dGpDnCiD_xBNZT7RYY0aEUE2IIY_po4fqGe1nI4nNl75alBkAM1Lk/pubhtml?gid=0&single=true)
 
 
 Goals:
@@ -12,11 +14,16 @@ Goals:
 - max speed 100 - Nitro Type
 - Test 200 words    - 10fastfingers  (100wpm)
 - Test 1000 words   - 10fastfingers  (75wpm)
+- Tiempo : 
+  - Enero
+  - Febrero
+  - Marzo 
 
 How to improve:
 - Type a word in one go.
 - Practice with Capital leters
 - Practice with (,.;')
+- Ultimo sabado de cada mes.
 
 ## Training Sessions
 
