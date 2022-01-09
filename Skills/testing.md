@@ -3,3 +3,12 @@ The more your application grows, the more daunting the testing task becomes. Tha
 [Pragmatic Unit Testing in Java 8 with JUnit](https://www.educative.io/courses/unit-testing-java8-junit)
 
 [Guía Completa JUnit y Mockito incluye Spring Boot Test 2022](https://www.udemy.com/course/curso-completo-junit-mockito-spring-boot-test/)
+
+
+https://joel-costigliola.github.io/assertj/
+
+https://rest-assured.io/
+
+https://site.mockito.org/
+
+https://locust.io/
