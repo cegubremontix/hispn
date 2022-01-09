@@ -39,10 +39,16 @@ Tools:
 
 - Tensor Flow
 
-- Scikit Learn
+- [Scikit Learn](https://scikit-learn.org/stable/)
 
 - PyTorch
 
-- https://kafka.apache.org/
+- [Apache OpenNLP](https://opennlp.apache.org/)
+
+- [Apache Spark™ - Unified Engine for large-scale data analytics](https://spark.apache.org/)
+
+- https://www.kubeflow.org/
+
+- https://www.pachyderm.com/
 
 - [fast.ai](https://www.fast.ai/)
