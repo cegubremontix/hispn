@@ -1,5 +1,14 @@
 DevOps processes like continuous integration and deployment play a vital role in efficient software development. It considerably reduces waiting time between development, integration, testing, and deployment. That’s why you should hire Core Java developers who have a proven track record of working with DevOps tools such as Kubernetes, Maven, Gradle, Docker, and Jenkins, Git, GitHub
 
+- Builds
+- Deployment
+- Monitoring
+- Code Analysis
+- Code Search
+- Code Duplication
+- Code Review
+
+
 [Maven](https://maven.apache.org/)
 
 [Gradle](https://gradle.org/)
@@ -21,3 +30,24 @@ DevOps processes like continuous integration and deployment play a vital role in
 [Docker for Rails Developers](https://www.educative.io/courses/docker-for-rails-developers)
 
 [A Guide to Vagrant and Virtual Machines](https://www.educative.io/courses/guide-to-vagrant-virtual-machines)
+
+- GitLab
+- [roxmox - Powerful open-source server solutions](https://www.proxmox.com/en/)
+
+http://www.harukizaemon.com/simian/
+
+[oracle/opengrok: OpenGrok is a fast and usable source code search and cross reference engine, written in Java](https://github.com/oracle/opengrok)
+
+https://gitea.io/en-us/
+
+https://about.sourcegraph.com/
+
+https://oracle.github.io/opengrok/
+
+https://pmd.github.io/
+
+https://spotbugs.github.io/
+
+https://fbinfer.com/
+
+https://checkstyle.sourceforge.io/
