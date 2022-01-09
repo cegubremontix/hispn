@@ -51,3 +51,7 @@ https://spotbugs.github.io/
 https://fbinfer.com/
 
 https://checkstyle.sourceforge.io/
+
+[Apache OpenWhisk is a serverless, open source cloud platform](https://openwhisk.apache.org/)
+
+[Grafana: The open observability platform | Grafana Labs](https://grafana.com/)
