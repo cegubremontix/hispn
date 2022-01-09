@@ -48,3 +48,27 @@ https://hibernate.org/
 https://github.com/wildfly/wildfly
 
 https://swagger.io/
+
+
+https://spring.io/
+- https://spring.io/projects/spring-boot
+- https://spring.io/projects/spring-framework
+- https://spring.io/projects/spring-framework
+- https://spring.io/projects/spring-data
+- https://spring.io/projects/spring-cloud
+- https://spring.io/projects/spring-security
+- https://spring.io/projects/spring-graphql
+- https://spring.io/projects/spring-session
+- https://spring.io/projects/spring-integration
+- https://spring.io/projects/spring-hateoas
+- https://spring.io/projects/spring-restdocs
+- https://spring.io/projects/spring-batch
+- https://spring.io/projects/spring-kafka
+- https://spring.io/projects/spring-shell
+- https://spring.io/projects/spring-statemachine
+- https://spring.io/projects/spring-vault
+- https://spring.io/projects/spring-webflow
+- https://spring.io/projects/spring-ws
+- https://github.com/ReactiveX/RxJava
+- https://akka.io/
+- https://github.com/ben-manes/caffeine
