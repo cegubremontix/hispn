@@ -23,7 +23,11 @@ When you hire Core Java coders, knowledge of Core Java should be the first skill
 [Java Specialist](https://github.com/dbremont/jvtudes/blob/main/JavaSpecialist.md)
 
 [Java Programming Masterclass covering Java 11 & Java 17](https://www.udemy.com/course/java-the-complete-java-developer-course/)
+
 [Java Application Performance and Memory Management](https://www.udemy.com/course/java-application-performance-and-memory-management/)
+
 [Java Enterprise Edition 8 for Beginners course](https://www.udemy.com/course/java-enterprise-edition-8/)
+
 [Guía Completa Jakarta EE 9: Java EE 9 de cero a experto 2022](https://www.udemy.com/course/curso-jakartaee-java-ee-9-desde-cero-a-experto/)
+
 [Spring Framework 5 & Spring Boot 2 desde cero a experto 2022](https://www.udemy.com/course/spring-framework-5/)
