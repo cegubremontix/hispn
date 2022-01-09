@@ -36,3 +36,17 @@ Sample Questions
 - What do you understand about JVM, JDK, and JRE?
 - Describe JIT compiler
 - What is ClassLoader?
+
+Tools
+
+[Apache Commons – Apache Commons](https://commons.apache.org/)
+
+[ben-manes/caffeine: A high performance caching library for Java](https://github.com/ben-manes/caffeine)
+
+[Byte Buddy - runtime code generation for the Java virtual machine](https://bytebuddy.net/#/)
+
+[FasterXML/jackson: Main Portal page for the Jackson project](https://github.com/FasterXML/jackson)
+
+[google/guava: Google core libraries for Java](https://github.com/google/guava)
+
+https://logging.apache.org/log4j/2.x/
