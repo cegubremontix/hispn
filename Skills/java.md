@@ -50,3 +50,7 @@ Tools
 [google/guava: Google core libraries for Java](https://github.com/google/guava)
 
 https://logging.apache.org/log4j/2.x/
+
+http://openjdk.java.net/
+
+https://www.graalvm.org/
