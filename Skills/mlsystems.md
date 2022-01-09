@@ -33,9 +33,7 @@ https://ml-ops.org/content/mlops-principles
 [Make Your Own Neural Network in Python](https://www.educative.io/courses/make-your-own-neural-network-in-python)
 
 Tools:
-- Apache Mahout
-
-- Keras
+- [Keras](https://keras.io/)
 
 - Tensor Flow
 
@@ -52,3 +50,6 @@ Tools:
 - https://www.pachyderm.com/
 
 - [fast.ai](https://www.fast.ai/)
+
+keras-team/autokeras: AutoML library for deep learning
+
