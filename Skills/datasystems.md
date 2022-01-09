@@ -40,3 +40,6 @@ https://github.com/bufbuild/buf
 https://www.udemy.com/course/postgresqlmasterclass/learn/lecture/22230284?start=0#overview
 
 https://www.udemy.com/course/database-engines-crash-course/learn/lecture/22515194?start=0#overview
+
+
+https://www.udemy.com/course/pragmatic-system-design/learn/lecture/23306182?start=0#overview
