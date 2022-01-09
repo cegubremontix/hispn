@@ -33,3 +33,18 @@ Samples Questions
 [Java Enterprise Edition 8 for Beginners course](https://www.udemy.com/course/java-enterprise-edition-8/)
 
 [Spring Framework 5 & Spring Boot 2 desde cero a experto 2022](https://www.udemy.com/course/spring-framework-5/)
+
+
+Tools
+
+https://github.com/micronaut-projects/micronaut-core
+
+https://www.keycloak.org/
+
+https://square.github.io/okhttp/
+
+https://hibernate.org/
+
+https://github.com/wildfly/wildfly
+
+https://swagger.io/
