@@ -22,6 +22,10 @@ When you hire Core Java coders, knowledge of Core Java should be the first skill
 - [Concurrency and Multithreading](https://www.educative.io/module/java-multithreading-interview)
 - [System Design Problems](https://www.educative.io/module/system-design-java)
 
+[Decode the Coding Interview in Java: Real-World Examples](https://www.educative.io/courses/decode-coding-interview-java)
+
+[The Java Interview Handbook: 300+ Interview Questions](https://www.educative.io/courses/java-interview-handbook)
+
 [Java Specialist](https://github.com/dbremont/jvtudes/blob/main/JavaSpecialist.md)
 
 [Java Programming Masterclass covering Java 11 & Java 17](https://www.udemy.com/course/java-the-complete-java-developer-course/)
