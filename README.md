@@ -11,8 +11,6 @@
 
 ## Topics
 
-
-
 - [Anki](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/Anki.ipynb)
 
 - [todo.txt system Productivity System](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/todo.txt_system_Productivity_System.ipynb)
@@ -25,11 +23,7 @@
 
 - [Code Reading](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Code%20Reading%20-%20The%20Open%20Source%20Perspective.ipynb)
 
-Ideas
-https://news.ycombinator.com/item?id=22614949
-
-
-<a href="https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/Recorrer_Fuente_de_Recursos.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+## Ideas
 
 - [Plan ME](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/Planme.ipynb)
 
