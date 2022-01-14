@@ -42,3 +42,4 @@ Galimatías: Lenguaje oscuro por la impropiedad de la frase o por la confusión 
 
 [Gimmick/Gemática](https://en.wikipedia.org/wiki/Gimmick) : A gimmick is a novel device or idea designed primarily to attract attention or increase appeal, often with little intrinsic value.[1][2] When applied to retail marketing, it is a unique or quirky feature designed to make a product or service "stand out" from its competitors. Product gimmicks are sometimes considered mere novelties, and tangential to the product's functioning. Gimmicks are occasionally viewed negatively, but some seemingly trivial gimmicks of the past have evolved into useful, permanent features. The term is also sometimes used to describe unusual features or playstyles in video games, usually if they are unnecessary or obnoxious.
 
+Hooking: Conjunto de técnicas utilizadas para alterar el comportamiento de un **sistema operativo**, de **aplicaciones**  o de otros componentes de softwarwe.
