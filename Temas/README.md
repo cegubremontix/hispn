@@ -68,10 +68,8 @@
 
 [Articulos](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/Articulos_Generales.ipynb)
 
-[Hispanidad](https://colab.research.google.com/github/dbremont/Notas/blob/main/Temas/src/Hispanidad.ipynb)
+[Hispanidad](https://gitlab.com/dbtudes/hispntudes)
 
 [Think like a Stoic: Ancient Wisdom for Today's World](https://www.thegreatcourses.com/player/Video/5030?autoplay=false)
 
 [Outsmart Yourself: Brain-Based Strategies to a Better You](https://www.thegreatcourses.com/player/Video/1670)
-
-
