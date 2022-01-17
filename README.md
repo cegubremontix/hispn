@@ -17,11 +17,11 @@
 
 - [Notes on Java](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/Java.ipynb)
 
-- [jvtudes](https://github.com/dbremont/jvtudes)
+- [jvtudes](https://gitlab.com/dbremont/jvtudes)
 
 - [Deep Learning Nonodegree](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/Deep_Learning_Nanodegree.ipynb)
 
-- [Code Reading](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Code%20Reading%20-%20The%20Open%20Source%20Perspective.ipynb)
+- [Code Reading](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Code_Reading_The_Open_Source_Perspective.ipynb)
 
 ## Ideas
 
