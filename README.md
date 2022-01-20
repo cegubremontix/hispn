@@ -59,3 +59,47 @@
 
 - [IEEE Transactions on Software Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
 
+
+## Tech Blogs
+
+- [Engineering at Meta](https://engineering.fb.com/)
+
+- [GitHub Engineering](https://github.blog/category/engineering/)
+
+- [Heroku Engineering](https://blog.heroku.com/engineering)
+
+- [Google Develop](https://developers.googleblog.com/)
+
+- [Netflix Tech Blog](https://netflixtechblog.com/)
+
+- [Linked in Engineering](https://engineering.linkedin.com/blog)
+
+- [Enginnering at Spotify](https://engineering.atspotify.com/)
+
+- [Pinterest Engineering](https://medium.com/@Pinterest_Engineering)
+
+- [Etsy Engineering](https://codeascraft.com/archive/)
+
+- [yelp Engineering](https://engineeringblog.yelp.com/)
+
+- [Engineering at Quora](https://quoraengineering.quora.com/)
+
+- [Salesfore Engineering](https://developer.salesforce.com/blogs/engineering/)
+
+- [Medium Engineering](https://medium.engineering/)
+
+- [Enginering Mastery](https://machinelearningmastery.com/blog/)
+
+- [Sound Cloud Engineering](https://developers.soundcloud.com/blog/)
+
+- [Twitter Engineering](https://blog.twitter.com/engineering/en_us)
+
+- [Ebay Engineering](https://tech.ebayinc.com/)
+
+- [Uber Engineering](https://eng.uber.com/)
+
+- [Airbnb Engineering](https://medium.com/airbnb-engineering)
+
+- [BBC Design and Engineering](https://medium.com/bbc-design-engineering)
+
+- [Lyft Enginereing](https://eng.lyft.com/)
