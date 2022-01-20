@@ -9,6 +9,8 @@
  
 [Reference - Cosma Shalizi](http://bactra.org/notebooks/)
 
+[Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
+
 ## Topics
 
 - [Anki](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/Anki.ipynb)
