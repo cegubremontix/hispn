@@ -27,8 +27,6 @@
 
 ## Ideas
 
-- [Plan ME](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/Planme.ipynb)
-
 - [Tech Crunch](https://techcrunch.com/)
 
 - [tweedeck.twitter.com](https://tweetdeck.twitter.com/)
