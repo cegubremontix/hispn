@@ -17,13 +17,9 @@
 
 - [todo.txt system Productivity System](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/todo.txt_system_Productivity_System.ipynb)
 
-- [Notes on Java](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/Java.ipynb)
-
-- [jvtudes](https://gitlab.com/dbremont/jvtudes)
-
-- [Deep Learning Nonodegree](https://colab.research.google.com/github/dbremont/Notas/blob/main/Ingenerare/src/Deep_Learning_Nanodegree.ipynb)
-
 - [Code Reading](https://colab.research.google.com/github/dbremont/Notas/blob/main/Libros/Computacion/Code_Reading_The_Open_Source_Perspective.ipynb)
+
+- [Code Reading List](https://gitlab.com/-/snippets/2236758)
 
 ## Ideas
 
