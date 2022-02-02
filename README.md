@@ -99,3 +99,11 @@
 - [BBC Design and Engineering](https://medium.com/bbc-design-engineering)
 
 - [Lyft Enginereing](https://eng.lyft.com/)
+
+- [Julia Evans](https://jvns.ca/)
+
+- [Eli Bendersky](https://eli.thegreenplace.net/archives/all)
+
+- [Aleksey Shipilëv](https://shipilev.net/)
+
+- [todo - puut correct title](https://brooker.co.za/blog/)
