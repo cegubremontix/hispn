@@ -20,8 +20,9 @@ Resilience is more difficult to achieve in an event-driven system due to the sho
 
 ## Actor Model Vs Reactor Model
 
-- [Can I still write my traditional actor programs?](http://reactors.io/faq/)
-- [Actor Model](https://en.wikipedia.org/wiki/Actor_model)
+[Can I still write my traditional actor programs?](http://reactors.io/faq/)
+
+[Actor Model](https://en.wikipedia.org/wiki/Actor_model)
 
 [ACTORS: A Model of Concurrent Computation in Distributed Systems](https://dspace.mit.edu/handle/1721.1/6952)
 
