@@ -107,3 +107,13 @@
 - [Aleksey Shipilëv](https://shipilev.net/)
 
 - [todo - puut correct title](https://brooker.co.za/blog/)
+
+
+
+[What is the best way to read CS research papers?](https://www.quora.com/What-is-the-best-way-to-read-CS-research-papers)
+
+[Tips on Literature Surveys](https://www.csee.umbc.edu/courses/graduate/CMSC601/Spring12/lit-survey.html)
+
+[Best Paper Awards in Computer Science](https://jeffhuang.com/best_paper_awards/conferences.html#icse)
+
+[Most Cited Computer Science Papers](https://citeseerx.ist.psu.edu/stats/articles?y=2015)
