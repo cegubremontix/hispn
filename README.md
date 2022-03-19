@@ -4,19 +4,19 @@
 
 Notas Libros, Papers, Articulos.
 
-## Extraer:
+**Extraer**:
 
 - Herramientas cognitivas,   
 - Herramientas
 
-## Poner en:
+**Poner en**:
 
 - [meta / computacion]()
 - [meta / ]
 - [sciencetudes]()
 - ... etudes
 
-## Estadisticas
+**Estadisticas**
 
 Al `sáb 19 mar 2022 17:06:07 AST`
 
