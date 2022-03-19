@@ -16,7 +16,7 @@ Notas Libros, Papers, Articulos.
 - [sciencetudes]()
 - ... etudes
 
-## Stats
+## Estadisticas
 
 Al `sáb 19 mar 2022 17:06:07 AST`
 
