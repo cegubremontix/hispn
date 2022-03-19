@@ -1,17 +1,20 @@
 # Notas
 
+**Estudios asincronos.**
+
 Notas Libros, Papers, Articulos.
 
-Extraer:
+## Extraer:
+
 - Herramientas cognitivas,   
 - Herramientas
 
-Poner en:
+## Poner en:
+
 - [meta / computacion]()
 - [meta / ]
 - [sciencetudes]()
 - ... etudes
-
 
 ## Stats
 
