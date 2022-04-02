@@ -1,1 +1,0 @@
-[Dapr](dapr.io)
