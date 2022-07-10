@@ -29,8 +29,6 @@ Al `sáb 19 mar 2022 17:06:07 AST`
 ## Sources
 
 - [Build you owm x: Mastering programming by recreatin your favorite tech stack](https://github.com/codecrafters-io/build-your-own-x)
-
-- [Awesome JVM](https://github.com/deephacks/awesome-jvm)
  
 - [Reference - Cosma Shalizi](http://bactra.org/notebooks/)
 
