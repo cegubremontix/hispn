@@ -109,3 +109,77 @@ Al `sáb 19 mar 2022 17:06:07 AST`
 - [r/learnmath](https://www.reddit.com/r/learnmath/)
 
 - [The Atlas Of Economic Complexity](https://atlas.cid.harvard.edu/)
+
+## Survey many different models of computation.... 
+
+- Turing Machines, 
+- Cellular Automata, 
+- Finite State Machines, 
+- Stack Machines, 
+- Graph Automata, 
+- Lambda Calculus, 
+- Fractran, 
+- Tiling Systems, 
+- Chemical Reaction Systems, 
+- Hopfield Networks, 
+- Boltzmann Machines, 
+- Neural Networks, 
+- Circuits, 
+- Graphical Models, 
+- Boolean Algebra, 
+- String Rewriting Systems, 
+- Semigroups, 
+- Quantum Waves,
+- Diophantine Equations, 
+- [L-system](https://en.wikipedia.org/wiki/L-system),
+- Tag Systems, etc., etc.
+
+# Certifications
+
+[Certified Kubernetes Administrator (CKA)](https://www.whizlabs.com/certified-kubernetes-administrator/)
+
+[Docker Certified Associate (DCA) Exam](https://www.whizlabs.com/docker-certified-associate/)
+
+[VMware Certified Spring Professional Certificatio](https://www.whizlabs.com/vmware-certified-spring-professional/)
+
+[Java SE 11 Programmer I [1Z0-815]](https://www.whizlabs.com/ocpjd-java-se-11-programmer-i/)
+
+[Java SE 11 Programmer II [1Z0-816]](https://www.whizlabs.com/ocpjd-java-se-11-programmer-ii/)
+
+[AWS Certified Cloud Practitioner](https://www.whizlabs.com/aws-certified-cloud-practitioner/)
+
+[AWS CI/CD Pipeline - Master Class](https://www.whizlabs.com/aws-ci-cd-pipeline-master-class/)
+
+[AWS Certified Solutions Architect Associate Exam](https://www.whizlabs.com/aws-solutions-architect-associate/)
+
+[CompTIA Linux+ Certification (LPI LX0-103)](https://www.whizlabs.com/comptia-linux-certification-training-lx0-103/)
+
+[Java SE  11 Mock Exam - Really Bad Result](https://www.whizlabs.com/learn/course/ocpjd-java-se-11-programmer-i/266/quiz/14939/report/6360754)
+
+# [touch typing](https://gitlab.com/dbtudes/Skills/-/blob/main/softskills/touch_typing.md)
+
+[data systems](https://gitlab.com/dbtudes/Skills/-/blob/main/mlsystems.md)
+
+[javase](https://gitlab.com/dbtudes/jvtudes/javase)
+
+[Google Calendar](https://calendar.google.com/calendar/u/0/r): Agenda para tareas, eventos, recordatorios.
+
+[Google Task](https://calendar.google.com/calendar/u/0/r): Listado de Tareas a ejecutar.
+
+[Habits Monitoring Sheet](https://docs.google.com/spreadsheets/d/1Sh94rmgirEex05SIFipbd0m25H_r7wFYdb_tKXSnDA0/edit#gid=1464122638)
+
+The logs go [here](https://colab.research.google.com/drive/1JEDZds-BsPy6qckXAkUhibUXOS-Hswmy) 
+
+[Build your own x](https://github.com/danistefanovic/build-your-own-x)
+
+[Project based learning](https://github.com/practical-tutorials/project-based-learning)
+
+[Awesome System Design](https://github.com/madd86/awesome-system-design)
+
+[Awesome Big-data](https://github.com/0xnr/awesome-bigdata)
+
+https://austinhenley.com/blog/challengingprojects.html
+
+https://austinhenley.com/blog/morechallengingprojects.
+
+[Unix Tools](https://colab.research.google.com/drive/1UUihRDydxp8RkbqjW_bjBMdVe7wyRzr-#scrollTo=cIeozG9tLkC0)
