@@ -108,6 +108,8 @@ Al `sáb 19 mar 2022 17:06:07 AST`
 
 - [The Atlas Of Economic Complexity](https://atlas.cid.harvard.edu/)
 
+- [Austin Z. Henley](https://austinhenley.com/blog.html)
+
 ## Survey many different models of computation.... 
 
 - Turing Machines, 
