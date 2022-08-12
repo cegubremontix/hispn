@@ -2,7 +2,7 @@
 
 Usually in $HOME/.local/share/DBeaverData/..
 
-https://sta`ckoverflow.com/questions/39928401/recover-db-password-stored-in-my-dbeaver-connection
+https://stackoverflow.com/questions/39928401/recover-db-password-stored-in-my-dbeaver-connection
 
 -- Change '/home/dvictoriano/devconfig/dbeaver/.dbeaver/credentials-config.json'
 
