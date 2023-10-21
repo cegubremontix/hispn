@@ -1,43 +1,28 @@
-### What to learn?
-Learn on demand (Just in Time Learning) about **very specific** topics for:
-- How-to knowledge,
-- What is knowledge.
 
-### Workflow
-Once decide what to learn:
-
-- **Create a new branch** YYYY-DD-MM-TITLE,
-- **Study**   survey the topic,  ask questions,  take notes,
-- **Generate** the Anki notes,
-- **Practice** until you remember and understand,
-- **Merge** with the main branch, 
-- **Add the Anki notes** to the system.
-
-### How to structure a note?
-Generate a note (`YEAR-SECUENCE.md`) with the following structure:
-```
-{TITLE}
-Id: {YEAR-GLOBAL-YEAR-SECUENCE}
-Tags: {TAGS}
+docker run -it  -p 4000:4000 hispn
+docker run -v $HOME/Code/hispn:/app -it  -p 4000:4000 hispn
+bundle exec jekyll build
+bundle exec jekyll serve --host 0.0.0.0 --incremental
+gem install webrick
+...
 ---
-{CONTENT}
-{REFERENCES}
-```
+Free Energy Principle
+---
 
-### How to retain the information?
-Use [Anki]() as an space repetition tool.
+The "Free Energy Principle" is a theoretical framework developed in the field of neuroscience and cognitive science by the British neuroscientist Karl Friston. It proposes a unifying perspective on brain function, perception, and action. The principle is often discussed in the context of the brain's role in processing information and minimizing uncertainty.
 
-### What to do with this content?
-- Generate an `index` for search,
-- Generate the `notes reference graph`,
-- Generate a wordcloud using a combination of {year, tag, word}.
+The central idea of the Free Energy Principle can be quite complex, but it can be broken down into several key concepts:
 
-## References
+1. Inference and Prediction: The brain's primary function is to make inferences about the world. It does this by constantly generating predictions about sensory inputs, which are then compared to actual sensory data. The brain aims to minimize the discrepancy between its predictions and the actual sensory input.
 
-- [Commonplace book](https://en.wikipedia.org/wiki/Commonplace_book)
-- [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten)
-- [New Method of Making CommonPlace-Books](https://www.medizingeschichte.uni-wuerzburg.de/locke_early_science_and_medicine.pdf)
-- [Waste book](https://en.wikipedia.org/wiki/Waste_book)
-- [Note-taking](https://en.wikipedia.org/wiki/Note-taking)
-- [The W. Ross Ashby Digital Archive](https://ashby.info/)
-- [Monocle - Personal Documents Search Engine](https://monocle.surge.sh/)
+2. Free Energy: In this context, "free energy" is a mathematical concept borrowed from statistical physics and information theory. It represents the difference between the brain's internal model of the world (its predictions) and the actual sensory input. Minimizing free energy means reducing the difference between what the brain expects to perceive and what it actually perceives.
+
+3. Active Inference: The brain not only makes passive predictions but also takes actions to actively gather information that reduces free energy. In other words, it engages in actions that help confirm and refine its internal model of the world.
+
+4. Perception as Hypothesis Testing: Perception, according to the Free Energy Principle, is seen as a form../hispn/_posts/clia of hypothesis testing. The brain constructs its best guess (hypothesis) about what is happening in the world based on sensory input and prior beliefs, and then it seeks to refine and verify these hypotheses.
+
+5. Hierarchical Models: The brain is thought to use a hierarchical model of the world, where higher levels make more abstract and long-term predictions, while lower levels make more concrete, short-term predictions.
+
+6. Learning and Adaptation: The brain continually updates its internal model of the world by learning from new experiences and adjusting its predictions and actions accordingly. This learning process helps the brain become more accurate in minimizing free energy.
+
+Overall, the Free Energy Principle provides a theoretical framework for understanding how the brain processes information, perceives the world, and takes actions. It emphasizes the brain's role in minimizing surprise and uncertainty, and it has been applied in various fields, including neuroscience, psychology, and artificial intelligence, to gain insights into the workings of the mind and to develop models of intelligent behavior.

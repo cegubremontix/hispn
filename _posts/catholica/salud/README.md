@@ -1,0 +1,1 @@
+**Healthcare System:** The infrastructure and practices related to maintaining health and providing medical care. Systems range from traditional healing methods to modern healthcare institutions.

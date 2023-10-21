@@ -1,0 +1,60 @@
+## Educación
+
+> **Educational System:** The structure and methods of imparting knowledge, skills, and values within a society. Educational systems include formal schooling, apprenticeships, and traditional knowledge transmission.
+
+> ...
+
+## Ciencia y Cultura 
+
+- [Biblioteca Hispano Americana Septentrional, Ó Catálogo Y Noticias de Los Literatos, Vol. 3: Que Ó Nacidos Ó Educados Ó Florecientes En La América ... Preparado Para La Prens](https://www.amazon.com/Biblioteca-Americana-Septentrional-Cat%C3%A1logo-Literatos/dp/1390612260)
+    - [Read](https://bibliotecadigital.aecid.es/bibliodig/es/consulta/registro.cmd?id=707)
+- [Los señores del Nuevo Mundo - Élites intelectuales entre el Pacífico y el Atlántico, siglos XVI-XVII](https://journals.openedition.org/cultura/780)
+- [El abate Juan Ignacio Molina: una vida dedicada a la historia natural y civil del reino de Chile](http://www.scielo.org.ar/scielo.php?script=sci_arttext&pid=S0004-48222011000300016)
+- [Diego de Guadalajara Tello](https://dbe.rah.es/biografias/19463/diego-guadalajara-tello)
+- [Francisco Antonio de Guerrero y Torres](https://www.wikiwand.com/es/Francisco_Antonio_de_Guerrero_y_Torres)
+- [Ildefonso de Iniesta Bejarano y Durán](https://www.wikiwand.com/es/Ildefonso_de_Iniesta_Bejarano_y_Dur%C3%A1n)
+- [Miguel Custodio Durán](https://www.wikiwand.com/es/Miguel_Custodio_Dur%C3%A1n)
+- [José Miguel de Rivera Saravia](https://www.wikiwand.com/es/Jos%C3%A9_Miguel_de_Rivera_Saravia)
+- [José Eduardo de Herrera](https://www.wikiwand.com/es/Jos%C3%A9_Eduardo_de_Herrera)
+- [Pedro de Arrieta](https://www.wikiwand.com/es/Pedro_de_Arrieta)
+- [Antonio de León y Gama](https://www.wikiwand.com/es/Antonio_de_Le%C3%B3n_y_Gama)
+- [Carlos de Sigüenza y Góngora](https://www.wikiwand.com/es/Carlos_de_Sig%C3%BCenza_y_G%C3%B3ngora)
+- [Juan Ruiz de Alarcón](https://www.wikiwand.com/es/Juan_Ruiz_de_Alarc%C3%B3n)
+- [Juana Inés de la Cruz](https://www.wikiwand.com/es/Juana_In%C3%A9s_de_la_Cruz)
+- [Miguel Cabrera (pintor)](https://www.wikiwand.com/es/Miguel_Cabrera_(pintor))
+- [Juan Correa (pintor novohispano)](https://www.wikiwand.com/es/Juan_Correa_(pintor_novohispano))
+- [José de Páez](https://www.wikiwand.com/es/Jos%C3%A9_de_P%C3%A1ez)
+- [Baltasar de Echave Rioja](https://www.wikiwand.com/es/Baltasar_de_Echave_Rioja)
+- [Cristóbal de Villalpando](https://www.wikiwand.com/es/Crist%C3%B3bal_de_Villalpando)
+- [Manuel de Sumaya](https://www.wikiwand.com/es/Manuel_de_Sumaya)
+- [Diego de Valadés](https://www.wikiwand.com/es/Diego_de_Valad%C3%A9s)
+- [Marcos Cipac de Aquino](https://www.wikiwand.com/es/Marcos_Cipac_de_Aquino)
+- [Anexo:Universidades y colegios virreinales en Hispanoamérica](https://es.wikipedia.org/wiki/Anexo:Universidades_y_colegios_virreinales_en_Hispanoam%C3%A9rica)
+- [El pensamiento ilustrado y los artesanos tapatios - Jose de Jesus Olmedo Gonzalez](https://www.persee.fr/docAsPDF/carav_1147-6753_1995_num_64_1_2633.pdf)
+- [Escuela Universalista Española del siglo XVIII](https://www.wikiwand.com/es/Escuela_Universalista_Espa%C3%B1ola_del_siglo_XVIII)
+- [Baltazar Gracian](https://en.wikipedia.org/wiki/Baltasar_Graci%C3%A1n)
+- [Linaje e Ilustración. Don Manuel Uchu Inca y el Real Seminario de Nobles de Madrid (1725-1808)](https://repositorio.pucp.edu.pe/index/bitstream/handle/123456789/192329/50.pdf?sequence=1)
+- [DIEGO DE GUADALAJARA Y LA FÍSICA NEWTONIANA EN LA CONSTRUCCIÓN DE RELOJES NOVOHISPANOS DEL SIGLO XVIII](https://archivos.gob.mx/Legajos/pdf/Legajos02/03Diego.pdf)
+- [Francisco Suárez](https://www.wikiwand.com/es/Francisco_Su%C3%A1rez)
+- [Los antinewtonianos y la difusión de la ciencia newtoniana en la Nueva España del siglo XVIII](http://sincronia.cucsh.udg.mx/articulos_75_html/129-143_2019a.html)
+- [Escuela de Salamanca](https://www.wikiwand.com/es/Escuela_de_Salamanca)
+- Calderón-Fernández, Andrés, Rafael Dobado-González, and Alfredo García-Hiernaux. "Numeracy in central New Spain during the enlightenment." Revista de Historia Economica-Journal of Iberian and Latin American Economic History 38.2 (2020): 369-403.
+- Colegios Jesuitas en Ciudad de México.
+- ...
+- [José Mariano Mociño](https://www.wikiwand.com/es/Jos%C3%A9_Mariano_Moci%C3%B1o)
+- [José Antonio Alzate](https://www.wikiwand.com/es/Jos%C3%A9_Antonio_Alzate)
+- [Juan José de Eguiara y Eguren](https://www.wikiwand.com/es/Juan_Jos%C3%A9_de_Eguiara_y_Eguren)
+- [José Mariano Beristáin y Souza](https://www.wikiwand.com/es/Jos%C3%A9_Mariano_Berist%C3%A1in_y_Souza)
+- [José Felipe Flores](https://es.wikipedia.org/wiki/Jos%C3%A9_Felipe_Flores#Bibliograf%C3%ADa)
+- [Juan Ignacio Molina](https://www.wikiwand.com/en/Juan_Ignacio_Molina)
+- [Juan Badiano y Martín de la Cruz](https://www.wikiwand.com/es/Juan_Badiano_y_Mart%C3%ADn_de_la_Cruz)
+- [José Antonio de Liendo y Goicoechea](https://es.wikipedia.org/wiki/Jos%C3%A9_Antonio_de_Liendo_y_Goicoechea)
+- [Juan Badiano y Martín de la Cruz](https://www.wikiwand.com/es/Mart%C3%ADn_de_la_Cruz)
+- [Andrés Manuel del Río](https://www.wikiwand.com/es/Andr%C3%A9s_Manuel_del_R%C3%ADo)
+- [Fausto Delhuyar](https://www.wikiwand.com/es/Fausto_de_Elhuyar)
+- [Carlos de Sigüenza y Góngora](https://www.wikiwand.com/es/Carlos_de_Sig%C3%BCenza_y_G%C3%B3ngora)
+- [Antonio de León y Gama](https://www.wikiwand.com/es/Antonio_de_Le%C3%B3n_y_Gama) 
+- [Bernabé Cobo](https://www.wikiwand.com/en/Bernab%C3%A9_Cobo)
+- [Gaspar Melchor de Jovellanos](https://www.wikiwand.com/es/Gaspar_Melchor_de_Jovellanos)
+- [Hipólito Unanue](https://www.wikiwand.com/es/Hip%C3%B3lito_Unanue)
+- [Juan Ignacio María de Castorena Ursúa y Goyeneche](https://www.wikiwand.com/es/Juan_Ignacio_Mar%C3%ADa_de_Castorena_Urs%C3%BAa_y_Goyeneche)
