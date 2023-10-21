@@ -88,3 +88,6 @@ Authors:
 - Jean-Baptiste Colbert
 - Friedirch List
 - Wilhelm Georg Friedrich Roscher 
+
+
+[Erik Reinert, "What the Cold War Did to Economics - including Ukraine, Russia, and Finland?"](https://www.youtube.com/watch?v=Q8ad1WR95RY)
