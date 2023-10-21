@@ -70,3 +70,6 @@ Structure
 [Digital Economy Lab](https://digitaleconomy.stanford.edu/)
 
 [Fundación Economía y Desarrollo](https://lafundacion.do/)
+
+
+[Microsoft / Activision deal prevented to protect innovation and choice in cloud gaming ](https://www.gov.uk/government/news/microsoft-activision-deal-prevented-to-protect-innovation-and-choice-in-cloud-gaming)
