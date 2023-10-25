@@ -35,3 +35,5 @@
 [Historia conceptual en el Atlántico ibérico: Lenguajes, tiempos, revoluciones](https://www.amazon.com/-/es/Javier-Fern%C3%A1ndez-Sebasti%C3%A1n/dp/8437508126)
 
 [Conocimiento y cultura. Estudios modernos en la Facultad de Filosofía y Letras](https://www.amazon.com/-/es/Adriana-%C3%81lvarez-S%C3%A1nchez-ebook/dp/B07B2FPWCB)
+
+[Historia Hispanica](https://historia-hispanica.rah.es/)
